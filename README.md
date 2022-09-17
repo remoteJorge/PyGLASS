@@ -1,2 +1,2 @@
 # PyGLASS
-3D Pointcloud Semantic Segmentation of Pyrenean glaciers  
+Pyrenean Glaciers Semantic Segmentation of 3D Pointclouds
